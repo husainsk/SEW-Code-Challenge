@@ -1,0 +1,5 @@
+C:\SEWCodeChallenge\SEWCodeChallenge\SEWCodeChallenge\bin\Debug\SEWCodeChallenge.exe
+C:\SEWCodeChallenge\SEWCodeChallenge\SEWCodeChallenge\bin\Debug\SEWCodeChallenge.pdb
+C:\SEWCodeChallenge\SEWCodeChallenge\SEWCodeChallenge\obj\x86\Debug\SEWCodeChallenge.exe
+C:\SEWCodeChallenge\SEWCodeChallenge\SEWCodeChallenge\obj\x86\Debug\SEWCodeChallenge.pdb
+C:\SEWCodeChallenge\SEWCodeChallenge\SEWCodeChallenge\obj\x86\Debug\SEWCodeChallenge.csprojResolveAssemblyReference.cache

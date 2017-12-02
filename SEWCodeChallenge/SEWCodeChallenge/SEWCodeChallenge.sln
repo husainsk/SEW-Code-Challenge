@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEWCodeChallenge", "SEWCodeChallenge\SEWCodeChallenge.csproj", "{33412763-3D89-4A44-B0D9-7AEEF1F1C435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33412763-3D89-4A44-B0D9-7AEEF1F1C435}.Debug|x86.ActiveCfg = Debug|x86
+		{33412763-3D89-4A44-B0D9-7AEEF1F1C435}.Debug|x86.Build.0 = Debug|x86
+		{33412763-3D89-4A44-B0D9-7AEEF1F1C435}.Release|x86.ActiveCfg = Release|x86
+		{33412763-3D89-4A44-B0D9-7AEEF1F1C435}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
